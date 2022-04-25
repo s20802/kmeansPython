@@ -1,0 +1,11 @@
+K-Means Project
+
+The goal is to write a program that takes the following arguments:
+- CSV file with data to be grouped.
+- The value of the k parameter.
+
+Implement a k-means algorithm that groups the data in the CSV file into k 
+groups. The program should display information about the division into groups, as well as the sum of squares of 
+distances inside the clusters after each iteration of the algorithm.
+
+NOTE: The program should work correctly for data with any number of attributes.
